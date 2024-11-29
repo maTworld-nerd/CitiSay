@@ -1,2 +1,2 @@
 # CitiSay
-AI powered polling station!!!
+policy making made eazy!!!
